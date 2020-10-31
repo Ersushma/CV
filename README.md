@@ -37,12 +37,13 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 
 * **Online Tourism Management System**
   * A web-based application designed in ASP.net with C#, HTML, Java Script, SQL Server, CSS and Crystal Reports.
-  * This system also gives tours related information like which places are tourist attractions, cities, and provinces in Rajasthan.  
-o	This system also provides a better way to connect with various cultural events in different cities of Rajasthan. 
-•	Event Management System: 
-o	A web-based application designed in ASP.net, HTML, SQL, and CSS. 
-o	This application lets a user plan a personal or professional event. 
-o	The project also helps the user by proving a complete view for the event by providing a list of numerous options and estimate budget.  
+  * This system provides tours related information like which places are tourist attractions, cities, and provinces in Rajasthan.
+  * This system also provides a better way to connect with various cultural events in different cities of Rajasthan.
+  
+* **Event Management System:**
+  * A web-based application designed in ASP.net, HTML, SQL, and CSS.
+  * This application lets a user plan a personal or professional event.
+  * This project also helps the user by proving a complete view for the event by providing a list of numerous options and estimate budget.  
 •	Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm 
 o	An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network. 
 o	This algorithm provides a route in the given WSN using optimum routing path selection and dynamic demand concept. 
