@@ -27,7 +27,7 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   * Developed the functionality as dictated by business requirement and coverage with unit testing for new functionality and existing functionality.
   * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on  lab experience.
   
-* **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014) **  
+* **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014)**  
   * As a lecturer and instructor I guided and mentored students. 
   * Taught and knowledge sharing of programming languages and computer subjects including C, C++, Data-structure, Database and Algorithm. 		
 
