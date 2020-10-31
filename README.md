@@ -16,8 +16,8 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 
 ### **Education** 
 - Rajasthan Technical University, India.  
-&nbsp;&nbsp;Master of Technology in Computer Engineering	 	 	 	(GPA 6.7/10), 2014
+&nbsp;&nbsp;Master of Technology in Computer Engineering(GPA 6.7/10), 2014
 - University of Rajasthan, India.   
-&nbsp;&nbsp;Bachelor of Engineering in Computer	 	 	   	Honours, (GPA 7.6/10), 2008
+&nbsp;&nbsp;Bachelor of Engineering in Computer(GPA 7.6/10), 2008 	&nbsp;&nbsp;&nbsp;&nbsp; Honours
   	 
 
