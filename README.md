@@ -5,7 +5,6 @@ ___
 ### **Career Objective**
 A position allowing for parlays of demonstrated organization, dedication, communication and project development skills as well as reinforce my technical skills. <br>
 
-
 ### **Technical Skills**
 - **Core Competencies:** Visual Studio 2017/2015, .Net Framework 4.6, ASP.NET, ADO.NET 
 - **Languages:**			C#, C, C++, HTML, CSS, XML
@@ -15,14 +14,12 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - **Operating Systems:**		Windows 10, Windows 2008/2003/2000/NT/XP. 
 - **Additional Technology:**		Duck Creek Technology 
 <br>
-
 ### **Education** 
 - Rajasthan Technical University, India.  
 &nbsp;&nbsp; Master of Technology in Computer Engineering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 6.7/10), 2014
 - University of Rajasthan, India.   
 &nbsp;&nbsp; Bachelor of Engineering in Computer with Honours  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 7.6/10), 2008
 <br>
-
 ### **Experience** : 
 * **Software Engineer II, GEICO (Carmel, Indiana)	   	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (January 2019 – July 2019)**
   * Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System.
