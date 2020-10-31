@@ -14,4 +14,10 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - **Operating Systems:**		Windows 10, Windows 2008/2003/2000/NT/XP. 
 - **Additional Technology:**		Duck Creek Technology 
 
+### **Education** 
+•	Rajasthan Technical University, India. 
+	Master of Technology in Computer Engineering	 	 	 	(GPA 6.7/10), 2014
+•	University of Rajasthan, India. 
+	Bachelor of Engineering in Computer	 	 	   	Honours, (GPA 7.6/10), 2008
+  	 
 
