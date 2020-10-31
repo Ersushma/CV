@@ -12,15 +12,14 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - **RDBMS:**				MS SQL Server 2012/2008/2005 
 - **Database Tools:**			SQL Server Management Studio
 - **Operating Systems:**		Windows 10, Windows 2008/2003/2000/NT/XP. 
-- **Additional Technology:**		Duck Creek Technology 
-<br>
+- **Additional Technology:**		Duck Creek Technology   
 
 ### **Education** 
 - Rajasthan Technical University, India.  
 &nbsp;&nbsp; Master of Technology in Computer Engineering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 6.7/10), 2014
 - University of Rajasthan, India.   
-&nbsp;&nbsp; Bachelor of Engineering in Computer with Honours  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 7.6/10), 2008
-<br>
+&nbsp;&nbsp; Bachelor of Engineering in Computer with Honours  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 7.6/10), 2008  
+
 ### **Experience** : 
 * **Software Engineer II, GEICO (Carmel, Indiana)	   	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (January 2019 – July 2019)**
   * Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System.
@@ -28,8 +27,7 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on  lab experience.
   
 * **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014)**  
-  * As a lecturer and instructor I guided and mentored students and have taught vaious subjects including C, C++, Data-structure, Database and Algorithm. 		
-<br>
+  * As a lecturer and instructor I guided and mentored students and have taught vaious subjects including C, C++, Data-structure, Database and Algorithm. 		  
 
 ### **Software Projects** : 
 * **C# application consuming web service**
@@ -49,12 +47,11 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 * **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm :**
    * An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network.
    * This algorithm as a result provides a route in the given WSN using optimum routing path selection and dynamic demand concept.
- <br>
- 
+
 * **Technical Training**
   * SIFY LTD., Jaipur, India.
   * HCL INFOSYSTEM LTD., Jaipur, India.  
- <br>
+
  
 * **Other Interests:**
   * Cooking and learning new things. 
