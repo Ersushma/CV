@@ -3,7 +3,7 @@ DesPlaines, IL | (+1) 470-435-1228 <br>
 [Email](mailto:sushma2511@gmail.com) | [Linkedin](https://www.linkedin.com/in/sushma-s-026888132) | [GitHub](https://github.com/Ersushma/CV/edit/gh-pages/README.md)
 ___
 ### **Career Objective**
-A position allowing for parlays of demonstrated organization, dedication, communication and project development skills as well as reinforce my technical skills.
+A position allowing for parlays of demonstrated organization, dedication, communication and project development skills as well as reinforce my technical skills. 
 
 ### **Technical Skills**
 - **Core Competencies:** Visual Studio 2017/2015, .Net Framework 4.6, ASP.NET, ADO.NET 
@@ -15,9 +15,9 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - **Additional Technology:**		Duck Creek Technology 
 
 ### **Education** 
-•	Rajasthan Technical University, India. 
+- Rajasthan Technical University, India. 
 	Master of Technology in Computer Engineering	 	 	 	(GPA 6.7/10), 2014
-•	University of Rajasthan, India. 
+- University of Rajasthan, India. 
 	Bachelor of Engineering in Computer	 	 	   	Honours, (GPA 7.6/10), 2008
   	 
 
