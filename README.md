@@ -48,11 +48,11 @@ A position allowing for parlays of demonstrated organization, dedication, commun
    * An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network.
    * This algorithm as a result provides a route in the given WSN using optimum routing path selection and dynamic demand concept.
 
-* **Technical Training**
+### **Technical Training**
   * SIFY LTD., Jaipur, India.
   * HCL INFOSYSTEM LTD., Jaipur, India.  
 
  
-* **Other Interests:**
+### **Other Interests:**
   * Cooking and learning new things. 
 
