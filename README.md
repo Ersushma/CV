@@ -47,12 +47,12 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   
 * **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm :**
    * An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network.
-   * This algorithm provides a route in the given WSN using optimum routing path selection and dynamic demand concept. 
+   * This algorithm as a result provides a route in the given WSN using optimum routing path selection and dynamic demand concept.
  
-Technical Training 
-•	SIFY LTD., Jaipur, India.  
-•	HCL INFOSYSTEM LTD., Jaipur, India.  
+* **Technical Training**
+  * SIFY LTD., Jaipur, India.
+  * HCL INFOSYSTEM LTD., Jaipur, India.  
  
-Other Interests: 
-•	Cooking and learning new things. 
+* **Other Interests:**
+ * Cooking and learning new things. 
 
