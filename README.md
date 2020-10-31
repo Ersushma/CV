@@ -44,9 +44,10 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   * A web-based application designed in ASP.net, HTML, SQL, and CSS.
   * This application lets a user plan a personal or professional event.
   * This project also helps the user by proving a complete view for the event by providing a list of numerous options and estimate budget.  
-•	Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm 
-o	An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network. 
-o	This algorithm provides a route in the given WSN using optimum routing path selection and dynamic demand concept. 
+  
+* **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm :**
+   * An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network.
+   * This algorithm provides a route in the given WSN using optimum routing path selection and dynamic demand concept. 
  
 Technical Training 
 •	SIFY LTD., Jaipur, India.  
