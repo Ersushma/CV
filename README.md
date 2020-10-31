@@ -4,6 +4,7 @@ DesPlaines, IL | (+1) 470-435-1228 <br>
 ___
 ### **Career Objective**
 ssdasds
-
+|A position allowing for parlays of demonstrated organization, dedication, communication and project development skills as well as reinforce my technical skills. |
+|:------|
 ___
 
