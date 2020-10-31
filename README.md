@@ -31,8 +31,9 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 
 
 ### **Software Projects** : 
-* **	C# application consuming web service**
-o	A system designed in C# .net, which provides a response to user as per business model / requirement using C#, visual studio libraries, web service, various API, JSON and Unit Testing.
+* **C# application consuming web service**
+ * A system  as a part of team designed to teach the fundamentals of Web API with C# .net.
+ * A system which provides a response to user as per business model / requirement using C#, visual studio libraries, web service, various API, JSON and Unit Testing.
 •	Online Tourism Management System  
 o	Online Tourism Management System is a web-based application designed in ASP.net with C#, HTML, Java Script, SQL Server, CSS and Crystal Reports. 
 o	This system also gives tours related information like which places are tourist attractions, cities, and provinces in Rajasthan.  
