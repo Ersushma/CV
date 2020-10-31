@@ -15,8 +15,8 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - **Additional Technology:**		Duck Creek Technology 
 
 ### **Education** 
-- Rajasthan Technical University, India. 
-	Master of Technology in Computer Engineering	 	 	 	(GPA 6.7/10), 2014
+- Rajasthan Technical University, India.
+Master of Technology in Computer Engineering	 	 	 	(GPA 6.7/10), 2014
 - University of Rajasthan, India. 
 	Bachelor of Engineering in Computer	 	 	   	Honours, (GPA 7.6/10), 2008
   	 
