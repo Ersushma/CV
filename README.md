@@ -1,5 +1,5 @@
 # Sushma Singh
-[Email](mailto:sushma2511@gmail.com) | [Linkedin][![alt text][1]][2]
+[Email](mailto:sushma2511@gmail.com) | [![alt text][1]][2][Linkedin]
 
 
 
