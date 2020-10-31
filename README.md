@@ -23,14 +23,14 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 ### **Experience** : 
 * **Software Engineer II, GEICO (Carmel, Indiana)	   	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (January 2019 – July 2019)**
   * Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System.
-  * Developed the functionality as dictated by business requirement and coverage with unit testing for new functionality and existing functionality.
+  * Developed the functionality as dictated by business requirement and perfomed unit testing for coverange  for new functionality and existing functionality.
   * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on  lab experience.
   
 * **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014)**  
-  * As a lecturer and instructor I guided and mentored students and have taught vaious subjects including C, C++, Data-structure, Database and Algorithm. 		  
+  * As a lecturer and instructor I guided and mentored students and taught vaious programing and non-programming subjects including C, C++, Data-structure, Database and Algorithm. 		  
 
 ### **Software Projects** : 
-* **C# application consuming web service**
+* **C# application to consume web service**
   * A system  as a part of team designed to teach myself the fundamentals of Web API, Unit testing with C#.
   * A system which provides a response to user as per business model / requirement using C#, visual studio libraries, web service, various API, JSON and Unit Testing.
 
