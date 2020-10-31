@@ -7,7 +7,7 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 
 ### **Technical Skills**
 | - **Core Competencies:** | Visual Studio 2017/2015, .Net Framework 4.6, ASP.NET, ADO.NET |
-|-----|-------|
+|--|--|
 - **Languages:**			C#, C, C++, HTML, CSS, XML
 - **Scripting /Data:**			JavaScript, JSON
 - **RDBMS:**				MS SQL Server 2012/2008/2005 
