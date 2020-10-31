@@ -14,6 +14,10 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - **Operating Systems:** Windows 10, Windows 2008/2003/2000/NT/XP. 
 - **Additional Technology:** Duck Creek Technology 
 
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 	
 
 
