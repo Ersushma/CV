@@ -26,8 +26,7 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   * Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System.
   * Developed the functionality as dictated by business requirement and coverage with unit testing for new functionality and existing functionality.
   * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on  lab experience.
-
-Non-Technical Development Experience: 
-•	Worked as a lecturer and instructor I taught various programming languages and computer subjects including C, C++, Data-structure, Database and Algorithm. 		
+* **Non-Technical Development Experience:** 
+ * Worked as a lecturer and instructor I taught various programming languages and computer subjects including C, C++, Data-structure, Database and Algorithm. 		
 
 
