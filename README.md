@@ -54,5 +54,5 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   * HCL INFOSYSTEM LTD., Jaipur, India.  
  
 * **Other Interests:**
- * Cooking and learning new things. 
+  * Cooking and learning new things. 
 
