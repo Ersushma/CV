@@ -19,5 +19,15 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 &nbsp;&nbsp; Master of Technology in Computer Engineering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 6.7/10), 2014
 - University of Rajasthan, India.   
 &nbsp;&nbsp; Bachelor of Engineering in Computer with Honours  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 7.6/10), 2008
-  	 
+
+
+### **Experience** : 
+* Software Engineer II, GEICO (Carmel, Indiana)	   	(January 2019 – July 2019) 
+*  	Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System. 
+o	Development of the functionality as dictated by business requirement and coverage with unit testing for new functionality and existing functionality.
+o	Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on lab experience.
+
+Non-Technical Development Experience: 
+•	Worked as a lecturer and instructor I taught various programming languages and computer subjects including C, C++, Data-structure, Database and Algorithm. 		
+
 
