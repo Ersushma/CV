@@ -20,7 +20,6 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 - University of Rajasthan, India.   
 &nbsp;&nbsp; Bachelor of Engineering in Computer with Honours  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (GPA 7.6/10), 2008
 
-
 ### **Experience** : 
 * **Software Engineer II, GEICO (Carmel, Indiana)	   	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (January 2019 – July 2019)**
   * Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System.
@@ -29,4 +28,27 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   
 * **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014)**  
   * As a lecturer and instructor I guided and mentored students and have taught vaious subjects including C, C++, Data-structure, Database and Algorithm. 		
+
+
+### **Software Projects** : 
+* **	C# application consuming web service**
+o	A system designed in C# .net, which provides a response to user as per business model / requirement using C#, visual studio libraries, web service, various API, JSON and Unit Testing.
+•	Online Tourism Management System  
+o	Online Tourism Management System is a web-based application designed in ASP.net with C#, HTML, Java Script, SQL Server, CSS and Crystal Reports. 
+o	This system also gives tours related information like which places are tourist attractions, cities, and provinces in Rajasthan.  
+o	This system also provides a better way to connect with various cultural events in different cities of Rajasthan. 
+•	Event Management System: 
+o	A web-based application designed in ASP.net, HTML, SQL, and CSS. 
+o	This application lets a user plan a personal or professional event. 
+o	The project also helps the user by proving a complete view for the event by providing a list of numerous options and estimate budget.  
+•	Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm 
+o	An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network. 
+o	This algorithm provides a route in the given WSN using optimum routing path selection and dynamic demand concept. 
+ 
+Technical Training 
+•	SIFY LTD., Jaipur, India.  
+•	HCL INFOSYSTEM LTD., Jaipur, India.  
+ 
+Other Interests: 
+•	Cooking and learning new things. 
 
