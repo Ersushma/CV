@@ -3,7 +3,7 @@ DesPlaines, IL <br>
 [Email](mailto:sushma2511@gmail.com) | [Linkedin](https://www.linkedin.com/in/sushma-s-026888132) | [GitHub](https://github.com/Ersushma/CV)
 ___
 ### **Career Objective** :
-A position allowing for parlays of demonstrated organization, dedication, communication and project development skills as well as reinforce my technical skills. <br>
+A position allowing for parlays of demonstrated organization, dedication, communication, and project development skills as well as reinforce my technical skills. <br>
 
 ### **Technical Skills** :
 - **Core Competencies:** Visual Studio 2017/2015, .Net Framework 4.6, ASP.NET, ADO.NET 
@@ -22,30 +22,30 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 
 ### **Experience** : 
 * **Software Engineer II, GEICO (Carmel, Indiana)	   	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (January 2019 – July 2019)**
-  * Worked as a development scrum team member and developed solution in various programming scenario using .Net (C#) and Duck Creek Policy Management System.
-  * Developed the functionality as dictated by business requirement and perfomed unit testing for coverange  for new functionality and existing functionality.
-  * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on  lab experience.
+  * Worked as a development scrum team member and developed the solution in various programming scenarios using .Net (C#) and Duck Creek Policy Management System.
+  * Developed the functionality as dictated by business requirements and performed unit testing for coverage for new functionality and existing functionality.
+  * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodologies including C#, agile methodology, API, web services with hands-on lab experience.
   
 * **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014)**  
-  * As a lecturer and instructor I guided and mentored students and taught various programming and non-programming subjects including C, C++, Data-structure, Database and Algorithm. 		  
+  * As a lecturer and instructor I guided and mentored students and taught various programming and non-programming subjects including C, C++, Data-structure, Database, and Algorithm. 		  
 
 ### **Software Projects** : 
 * **C# application to consume web service**
-  * A system  as a part of team designed to teach myself the fundamentals of Web API, Unit testing with C#.
-  * A system which provides a response to user as per business model / requirement using C#, visual studio libraries, web service, various API, JSON and Unit Testing.
+  * A system as a part of a team designed to get familiar with the fundamentals of Web API, Unit testing with C#.
+  * A system that responds to the user as per business model/requirement using C#, visual studio libraries, web service, various API, JSON, and Unit Testing.
 
 * **Online Tourism Management System**
-  * A web-based application designed in ASP.net with C#, HTML, Java Script, SQL Server, CSS and Crystal Reports.
+  * A web-based application designed in ASP.net with C#, HTML, JavaScript, SQL Server, CSS, and Crystal Reports.
   * This system provides tours related information like which places are tourist attractions, cities, and provinces in Rajasthan.
   * This system also provides a better way to connect with various cultural events in different cities of Rajasthan.
   
 * **Event Management System**
   * A web-based application designed in ASP.net, HTML, SQL, and CSS.
   * This application lets a user plan personal or professional event.
-  * This project also helps the user by providing a complete view for the event by providing event relatin information like decoration, food, venue and estimate budget.  
+  * This project also helps the user by providing a complete view of the event by providing event-related information like decoration, food, venue, and estimate budget.  
   
-* **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm :**
-   * An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network.
+* **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm:**
+   * An algorithm designed in MATLAB (C#) provides a proficient routing path in a wireless sensor network.
    * This algorithm as a result provides a route in the given WSN using optimum routing path selection and dynamic demand concept.
 
 ### **Technical Training** :
