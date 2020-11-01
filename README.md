@@ -1,5 +1,5 @@
 # **Sushma Singh**
-DesPlaines, IL | (+1) 470-435-1228 <br>
+DesPlaines, IL <br>
 [Email](mailto:sushma2511@gmail.com) | [Linkedin](https://www.linkedin.com/in/sushma-s-026888132) | [GitHub](https://github.com/Ersushma/CV)
 ___
 ### **Career Objective** :
@@ -27,7 +27,7 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   * Completed the Cloud Academy- A technical program by GEICO to learn various new technologies and methodology including C#, agile methodology, API, web services with hands-on  lab experience.
   
 * **Lecturer and Instructor:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (July 2008 – November 2014)**  
-  * As a lecturer and instructor I guided and mentored students and taught vaious programing and non-programming subjects including C, C++, Data-structure, Database and Algorithm. 		  
+  * As a lecturer and instructor I guided and mentored students and taught various programming and non-programming subjects including C, C++, Data-structure, Database and Algorithm. 		  
 
 ### **Software Projects** : 
 * **C# application to consume web service**
@@ -41,8 +41,8 @@ A position allowing for parlays of demonstrated organization, dedication, commun
   
 * **Event Management System**
   * A web-based application designed in ASP.net, HTML, SQL, and CSS.
-  * This application lets a user plan a personal or professional event.
-  * This project also helps the user by proving a complete view for the event by providing a list of numerous options and estimate budget.  
+  * This application lets a user plan personal or professional event.
+  * This project also helps the user by providing a complete view for the event by providing event relatin information like decoration, food, venue and estimate budget.  
   
 * **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm :**
    * An algorithm designed in MATLAB (C#) provides a proficient routing path in wireless sensor network.
