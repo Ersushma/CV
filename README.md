@@ -42,7 +42,7 @@ A position allowing for parlays of demonstrated organization, dedication, commun
 * **Event Management System**
   * A web-based application designed in ASP.net, HTML, SQL, and CSS.
   * This application lets a user plan personal or professional event.
-  * This project also helps the user by providing a complete view of the event by providing event-related information like decoration, food, venue, and estimate budget.  
+  * This project also helps the user by presenting a complete view of the event by providing event-related information like decoration, food, venue, and estimate budget.  
   
 * **Dynamically Enhanced Low Energy Adaptive Clustering Hierarchical Routing Algorithm:**
    * An algorithm designed in MATLAB (C#) provides a proficient routing path in a wireless sensor network.
